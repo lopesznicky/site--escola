@@ -5,12 +5,16 @@
   }
 
  header {
-   font-family: 'Anton', sans-serif;
+
     background-color: #100147;
     color: rgb(17, 8, 8);
     display: flex;
     justify-content: space-between;
     padding: 10px;
+  }
+  
+ body {
+    font-family: 'Anton', sans-serif;
   }
 
 nav ul {
