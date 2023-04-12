@@ -1,20 +1,15 @@
-*
-{
+* {
+  font-family: 'Gajraj One', cursive;
     margin: 0;
     padding: 0;
   }
 
  header {
-
-    background-color: #100147;
+    background-color: #0c1368;
     color: rgb(17, 8, 8);
     display: flex;
     justify-content: space-between;
     padding: 10px;
-  }
-  
- body {
-    font-family: 'Anton', sans-serif;
   }
 
 nav ul {
@@ -38,11 +33,11 @@ nav ul {
   }
  
   .destaque-item img {
-    width: 40%
+    width: 100%;
   }
 
   footer {
-    background-color: #100147;
+    background-color: #0c1368;
     color: white;
     text-align: center;
     padding: 10px;
